@@ -19,5 +19,5 @@ I am a Fullstack JavaScript developer. <br />
 <br />
 
 
-### speech_balloon Mail me: evgeny.chandler@gmail.com
-### zap Telegram: @PhilippovEvgeny
+### Mail me: evgeny.chandler@gmail.com
+### Telegram: @PhilippovEvgeny
