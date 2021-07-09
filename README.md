@@ -1,6 +1,6 @@
 ## Hi!
 
-My name is Evgeny Philippov, I'm from Moscow! see_no_evil <br />
+My name is Evgeny Philippov, I'm from Moscow! <br />
 I am a Fullstack JavaScript developer. <br />
 
 ### Languages and Technologies
