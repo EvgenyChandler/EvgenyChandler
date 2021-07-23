@@ -1,9 +1,9 @@
-## Hi all!
+## Привет!
 
 Я участвовал в различных IT проектах в сфере HR, но все время выступал в роли заказчика, а в последние 1,5 года поменял направление и перешел в разработку.<br />
 Последние пол года участвовал в проектах по разработке web-приложений, как frontend части, так и backend. Сейчас, своё дальнейшее профессиональное развитие связываю с JS разработкой. <br />
 
-I am a Fullstack JavaScript developer. <br />
+Fullstack JavaScript developer. <br />
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
